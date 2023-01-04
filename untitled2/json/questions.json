@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What is the name of the biggest shark?",
+    "choice1": "Whale Shark",
+    "choice2": "White Shark",
+    "choice3": "Whale",
+    "choice4": "Killer whale",
+    "answer": 1
+  },
+  {
+    "question": "Which animal is known as man’s best friend?",
+    "choice1": "Fox",
+    "choice2": "Cat",
+    "choice3": "Dog",
+    "choice4": "Wolf",
+    "answer": 3
+  },
+  {
+    "question": "What is the only animal that can’t jump?",
+    "choice1": "Lion",
+    "choice2": "Rhino",
+    "choice3": "Lizard",
+    "choice4": "Elephant",
+    "answer": 4
+  },
+  {
+    "question": "Which animal is the tallest in the world?",
+    "choice1": "Lama",
+    "choice2": "Giraffe.",
+    "choice3": "African elephant",
+    "choice4": "Camile.",
+    "answer": 2
+  },
+  
+  {
+    "question": "How many teeth does a shark have?",
+    "choice1": "1000",
+    "choice2": "1500",
+    "choice3": "2000",
+    "choice4": "3000",
+    "answer": 4
+  }
+  
+]
